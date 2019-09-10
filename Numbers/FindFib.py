@@ -12,11 +12,11 @@ def FibA(n):
     if n <= 1:
         return n
     else:
-        F = [0 for i in range(n+1)]
-        F[1] = 1
+        f = [0 for i in range(n+1)]
+        f[1] = 1
         for j in range(2, n+1):
-            F[j] = F[j-1] + F[j-2]
-        return(F[n])
+            f[j] = f[j-1] + f[j-2]
+        return(f[n])
         
 print('Выбирите алгоритм:')
 print('0 - Жадный, 1 - Быстрый')

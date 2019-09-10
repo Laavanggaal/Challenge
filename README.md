@@ -11,9 +11,9 @@ ____
 :white_check_mark: **Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 * :black_square_button: Build and compare growth with exponent
 
-:black_square_button: **Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+:white_check_mark: **Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-:black_square_button: **Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
+:white_check_mark: **Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
 :black_square_button: **Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
