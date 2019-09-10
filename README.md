@@ -100,6 +100,8 @@ ____
 
 :black_square_button: **Regex Query Tool** – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
+:black_square_button: **Forty Days of Dating Scraper** - A small script that fetches date from the fortydaysofdating.com website and opens a new tab on the default browser as soon as a new post is posted.
+
 ## Networking
 
 :black_square_button: **FTP Program** – A file transfer program which can transfer files back and forth from a remote web sever.
@@ -145,6 +147,28 @@ ____
 :black_square_button: **Bank Account Manager** - Create a class called “Account” which will be an abstract class for three other classes called “CheckingAccount”, “SavingsAccount” and “BusinessAccount”. Manage credits and debits from these accounts through an ATM style program.
 
 :black_square_button: **Library Catalog** – Create a book class with a title, page count, ISBN and whether or not it is checked out or not. Manage a collection of various books and allow the user to check out books or return books. For added complexity generate a report of those books overdue and any fees. Also allow users to put books on reserve.
+
+:black_square_button: **Patient / Doctor Scheduler** – Create a patient class and a doctor class. Have a doctor that can handle multiple patients and setup a scheduling program where a doctor can only handle 16 patients during an 8 hr work day.
+
+:black_square_button: **Recipe Creator and Manager** – Create a recipe class with ingredients and a put them in a recipe manager program that organizes them into categories like deserts, main courses or by ingredients like chicken, beef, soups, pies etc.
+
+:black_square_button: **Image Gallery** – Create an image abstract class and then a class that inherits from it for each image type. Put them in a program which displays them in a gallery style format for viewing.
+
+:black_square_button: **Class to Handle Large Numbers** – We know that the basic data types like integer, long, double, and floats only go so far. Create a class that can manage extremely large numbers like those used in space exploration.
+
+:black_square_button: **Chart Making Class / API** – Create a class, or a set of classes, that generates bar charts, pie charts, histograms, and scatter plot charts. For added complexity, make this a service where people can connect to a web server, supply information and it returns a chart image for them in gif or jpg format.
+
+:black_square_button: **Shape Area and Perimeter Classes** – Create an abstract class called “Shape” and then inherit from it other shapes like diamond, rectangle, circle, triangle etc. Then have each class override the area and perimeter functionality to handle each shape type.
+
+:black_square_button: **Matrix Class** – A class to manage matrices. Add, subtract and multiple matrices.
+
+:black_square_button: **Flower Shop Ordering To Go** – Create a flower shop application which deals in flower objects and use those flower objects in a bouquet object which can then be sold. Keep track of the number of objects and when you may need to order more.
+
+:black_square_button: **Vending Machine** – Create an application which takes money and dispenses various types of candy or other item. The user enters a number and letter sequence, like D9, and have it return an instance of “Item” which of the proper type. Example when they press D9 it will return a type of candy bar which is an instance of Mr. GoodBar.
+
+:black_square_button: **Josephus Problem** – Create a program which links together various node objects and then every Nth object is removed until you have one object left. This last object is the sole survivor. Look it up on Google under “Josephus Algorithm”
+
+:black_square_button: **Family Tree Creator** – Create a class called “Person” which will have a name, when they were born and when (and if) they died. Allow the user to create these Person classes and put them into a family tree structure. Print out the tree to the screen.
 
 ## Threading
 
