@@ -8,7 +8,7 @@ ____
 :white_check_mark: **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 * :black_square_button: Calculate pi with a given accuracy
 
-:black_square_button: **Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+:white_check_mark: **Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 :black_square_button: **Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
