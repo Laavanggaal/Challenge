@@ -9,6 +9,7 @@ ____
 * :black_square_button: Calculate pi with a given accuracy
 
 :white_check_mark: **Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+* :black_square_button: Build and compare growth with exponent
 
 :black_square_button: **Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
@@ -66,13 +67,15 @@ ____
 
 ## Text
 
-:black_square_button: **Reverse a String** – Enter a string and the program will reverse it and print it out.
+:white_check_mark: **Reverse a String** – Enter a string and the program will reverse it and print it out.
+
+:white_check_mark: **Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+
+* :black_square_button: Хотелось бы добавить реализацию через стек, а не через срез
 
 :black_square_button: **Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
 :black_square_button: **Count Vowels** – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
-
-:black_square_button: **Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
 :black_square_button: **Count Words in a String** – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
