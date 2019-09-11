@@ -15,15 +15,16 @@ ____
 
 :white_check_mark: **Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-:black_square_button: **Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+:white_check_mark: **Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
-:black_square_button: **Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
+:white_check_mark: **Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
+* :black_square_button: Хотелось бы улучшить до чего-то полезного
 
 :black_square_button: **Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-:black_square_button: **Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+:white_check_mark: **Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
-:black_square_button: **Calculator** – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
+:black_square_button: :black_square_button: **Calculator** – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
 :black_square_button: **Unit Converter (temp, currency, volume, mass and more)** – Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
@@ -70,7 +71,6 @@ ____
 :white_check_mark: **Reverse a String** – Enter a string and the program will reverse it and print it out.
 
 :white_check_mark: **Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
-
 * :black_square_button: Хотелось бы добавить реализацию через стек, а не через срез
 
 :black_square_button: **Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
@@ -326,3 +326,5 @@ ____
 :black_square_button: **Crossword Puzzle** – Create a crossword puzzle which links words together on common letters. Provide a list of clues for each word and let the user enter fill in the words until the entire crossword is filled in.
 
 :black_square_button: **Frogger** – Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
+
+[49 игр (испытай себя)](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
