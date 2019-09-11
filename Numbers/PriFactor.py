@@ -1,4 +1,7 @@
+from tkinter import *
+
 def factor(n):
+   n = int(e.get())
    ans = []
    d = 2
    while d * d <= n:
@@ -9,7 +12,18 @@ def factor(n):
            d += 1
    if n > 1:
        ans.append(n)
-   return ans
+   l['text'] = ans
+   
+root = Tk()
 
-print('Какое число желаете проверить?')
-print(factor(int(input())))
+e = Entry(root, width=20)
+b = Button(root, text="Разложить")
+l = Label(root, bg='black', fg='white', width=20)
+
+b.bind('<Button-1>', factor)
+
+e.pack()
+b.pack()
+l.pack()
+
+root.mainloop()
